@@ -1,0 +1,101 @@
+[
+  {
+    "eventId": 1,
+    "eventName": "CES 2024",
+    "date": "2024-01-09",
+    "eventImage": "https://cdn.ces.tech/ces/media/logos-and-icons/2023/cescta_combologo_clr.png",
+    "eventDetails": "CES® stands for innovators and the promise and power of technology. Our CES 2023 keynote addresses will showcase global industry leaders and offered insider insights into the technologies changing our industry and our lives.",
+    "tags": [
+      "ces",
+      "amd",
+      "lenovo",
+      "qualcom",
+      "bmw",
+      "amazon",
+      "lg",
+      "samsung",
+      "sony",
+      "prototypes",
+      "robotics",
+      "phones",
+      "laptops",
+      "tv",
+      "ai"
+    ]
+  },
+  {
+    "eventId": 2,
+    "eventName": "WWDC 2023",
+    "date": "2023-06-05",
+    "eventDetails": "The Apple Worldwide Developers Conference kicks off with exciting reveals and new opportunities. Join the developer community for an in-depth look at the future of Apple platforms, directly from Apple Park.",
+    "eventImage": "https://images.macrumors.com/t/XGfZ4KHjV1_c-1fSjuyYqhWGmxM=/800x0/smart/article-new/2023/03/wwdc-2023.jpeg?lossy",
+    "tags": [
+      "wwdc",
+      "apple",
+      "developers",
+      "api",
+      "software",
+      "swift",
+      "visionos",
+      "macos",
+      "ios",
+      "watchos",
+      "tvos",
+      "ipados",
+      "iphone",
+      "mac",
+      "ipad",
+      "watch",
+      "visionpro"
+    ]
+  },
+  {
+    "eventId": 3,
+    "eventName": "I/O 2023",
+    "date": "2023-05-10",
+    "eventDetails": "Be the first to learn about Google’s latest developer solutions, products, and technology. Connect through chapter-hosted events, join a program to fast-track success, or simply explore this space to learn something new from the community.",
+    "eventImage": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_IO_Bard_Keyword_Header_Op.width-1600.format-webp.webp",
+    "tags": [
+      "io",
+      "google",
+      "developers",
+      "api",
+      "android",
+      "pixel",
+      "watch",
+      "buds",
+      "watchos",
+      "fitbit",
+      "mobile",
+      "web",
+      "ai",
+      "bard",
+      "cloud",
+      "chromebook"
+    ]
+  },
+  {
+    "eventId": 4,
+    "eventName": "Build 2023",
+    "date": "2023-05-23",
+    "eventDetails": "Continue learning and explore the full session catalog focused on cloud development, AI, .NET, collaborative apps, data platform, developer tools, DevSecOps and SRE, low-code, and Windows.",
+    "eventImage": "https://michaelscodingspot.com/img/posts2023/microsoft-build-2023-announcements.jpg",
+    "tags": [
+      "build",
+      "microsoft",
+      "laptop",
+      "surface",
+      "foldable",
+      "ai",
+      "bing",
+      "copilot",
+      "openai",
+      "chatgpt",
+      "windows11",
+      "office365",
+      "api",
+      "cloud",
+      "azure"
+    ]
+  }
+]
