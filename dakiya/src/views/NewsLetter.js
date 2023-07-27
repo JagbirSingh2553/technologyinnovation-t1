@@ -82,7 +82,7 @@ async function handleSubmit(event) {
   if (validate()) {
   try {
     // Store the form data in the /store API first
-    const storeResponse = await fetch("https://dakiya.onrender.com:3001/api/store", {
+    const storeResponse = await fetch("https://dakiya.onrender.com/api/store", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -94,7 +94,7 @@ async function handleSubmit(event) {
 
     if (storeResponse.ok) {
       // Form data is stored successfully, now send the email
-      const emailResponse = await fetch("https://dakiya.onrender.com:3001/api/subscribe", {
+      const emailResponse = await fetch("https://dakiya.onrender.com/api/subscribe", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
