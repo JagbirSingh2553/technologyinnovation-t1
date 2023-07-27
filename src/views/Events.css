@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: baseline;
+  align-content: flex-start;
+  gap: 50px 50px;
+  padding-top: 50px;
+  padding-left: 50px;
+}
